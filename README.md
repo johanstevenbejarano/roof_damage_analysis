@@ -65,9 +65,9 @@ Dashboard interactivo desplegado con:
 
 ## 📁 Modelos y Datos
 
-- [YOLOv8 - Defect Detection](https://huggingface.co/JGuevara-12/yolo-roof-damage)  
-- [SegFormer - Roof Segmentation](https://huggingface.co/JGuevara-12/segformer-roofdefects)  
-- [Datos del Dashboard](https://huggingface.co/JGuevara-12/roof-dashboard-data)
+- [YOLOv8 - Defect Detection](https://huggingface.co/jobejaranom/segformer-roofdefects)  
+- [SegFormer - Roof Segmentation](https://huggingface.co/jobejaranom/segformer-inria-binary)  
+- [Datos del Dashboard](https://huggingface.co/jobejaranom/roof-dashboard-data)
 
 ---
 
