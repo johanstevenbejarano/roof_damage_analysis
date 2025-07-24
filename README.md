@@ -103,6 +103,17 @@ Dashboard interactivo desplegado con:
 Este proyecto fue construido con esfuerzo real, integración de múltiples tecnologías, resolución de errores y capacidad crítica. Aunque con limitaciones, demuestra solidez técnica, modularidad y potencial de escalamiento.
 
 ---
+## 👨‍💻 Autores
+
+- **Johan Steven Bejarano**  
+  *Estudiante de Ingenieria Electrónica - Universidad Nacional de Colombia sede Manizales*
+
+- **Jerónimo Gil**  
+  *Estudiante de Ingenieria Electrónica - Universidad Nacional de Colombia sede Manizales*
+
+- **Diego Arboleda**  
+  *Estudiante de Ingenieria Electrónica - Universidad Nacional de Colombia sede Manizales*
+
 
 ## 🧾 Licencia
 
