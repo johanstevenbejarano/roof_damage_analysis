@@ -108,10 +108,10 @@ Este proyecto fue construido con esfuerzo real, integración de múltiples tecno
 - **Johan Steven Bejarano**  
   *Estudiante de Ingenieria Electrónica - Universidad Nacional de Colombia sede Manizales*
 
-- **Jerónimo Gil**  
+- **Esteban Guevara**  
   *Estudiante de Ingenieria Electrónica - Universidad Nacional de Colombia sede Manizales*
 
-- **Diego Arboleda**  
+- **Edwin Moran**  
   *Estudiante de Ingenieria Electrónica - Universidad Nacional de Colombia sede Manizales*
 
 
